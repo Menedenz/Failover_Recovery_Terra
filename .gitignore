@@ -1,0 +1,9 @@
+.terraform
+.terraform.lock.hcl
+my-key-pair.pub
+my-key-pair
+self_signed_certificate.pem
+terraform.tfvars
+terraform.tfstate.backup
+terraform.tfstate
+private_key.pem
